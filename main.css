@@ -1,0 +1,17 @@
+div {
+	width: 200px ;
+	height: 250px;
+	background-color: #FFFFFF;
+	padding: 2px; 
+	border: 3px solid purple; 
+	border-radius: 7px;
+
+   	}
+h3 {padding: 1px
+
+	}
+p{
+	background-color: white;
+	text-align: left;
+	margin: 1px;
+ }/* Agrega aqui tu CSS */
